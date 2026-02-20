@@ -2,7 +2,7 @@
 <h3 align="center">AI & Data Science Enthusiast | Future AI Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Student;Data+Science+Explorer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=191970&size=22&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Student;Data+Science+Explorer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -55,12 +55,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EmilyRajapakse2004&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmilyRajapakse2004&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmilyRajapakse2004&theme=tokyo-night" />
