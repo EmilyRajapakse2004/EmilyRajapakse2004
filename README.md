@@ -54,7 +54,7 @@
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EmilyRajapakse2004&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" height="165"/>
 </p>
 
@@ -63,7 +63,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmilyRajapakse2004&theme=tokyo-night" />
 </p>
 
 ---
@@ -78,5 +78,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=EmilyRajapakse2004&color=blueviolet" />
 </p>
